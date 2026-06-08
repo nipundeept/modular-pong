@@ -43,7 +43,6 @@ This project uses CMake to handle the build process and link the Raylib graphics
 3. Run the executable:
     ````
     ./PongBall
-
 ##  Controls
 
     Player 1 (Left Paddle): W (Up) / S (Down)
